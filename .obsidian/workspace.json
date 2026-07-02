@@ -11,10 +11,14 @@
             "id": "bd341c1bb00d331a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "20260702/TIL.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "TIL"
             }
           }
         ]
@@ -176,8 +180,10 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "bd341c1bb00d331a",
+  "active": "f08789287a8ca173",
   "lastOpenFiles": [
+    "20260702/TIL.md",
+    "20260702",
     "20260626/20260626.md",
     "20260626/Pasted image 20260626202820.png",
     "20260626/Pasted image 20260626202642.png",
